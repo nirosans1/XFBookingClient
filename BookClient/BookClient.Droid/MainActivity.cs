@@ -17,7 +17,7 @@ namespace BookClient.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            MobileCenter.Configure("BookingClientAndroidAppSecret}");
+            MobileCenter.Configure("73067325-b4e0-458c-8436-6ba40308ed6e");
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

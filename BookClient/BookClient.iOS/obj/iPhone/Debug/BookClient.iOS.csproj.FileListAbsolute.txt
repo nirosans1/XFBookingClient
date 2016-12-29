@@ -48,5 +48,6 @@ C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\bin\iPhone\Debug\Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\bin\iPhone\Debug\Microsoft.Azure.Mobile.dll
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\bin\iPhone\Debug\Microsoft.Azure.Mobile.iOS.Bindings.dll
+C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\bin\iPhone\Debug\BookClient.dll.mdb
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\obj\iPhone\Debug\BookClientiOS.exe.mdb
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient.iOS\bin\iPhone\Debug\BookClientiOS.exe.mdb
