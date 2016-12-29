@@ -25,7 +25,7 @@ namespace BookClient.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            MobileCenter.Configure("e53f9276-4c1b-43a5-9f1c-f2888602721d");
+            MobileCenter.Configure("73067325-b4e0-458c-8436-6ba40308ed6e");
             //MobileCenter.Start("BookingClientiOSAppSecret", typeof(Analytics), typeof(Crashes));
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());

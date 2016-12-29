@@ -55,3 +55,7 @@ C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
 C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
+C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
+C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
+C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
+C:\D Drive\Xamarin\XAM150\XAM150-ex2-start\XFBookingClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb

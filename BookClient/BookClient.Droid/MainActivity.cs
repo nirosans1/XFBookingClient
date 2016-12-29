@@ -17,7 +17,7 @@ namespace BookClient.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            MobileCenter.Configure("73067325-b4e0-458c-8436-6ba40308ed6e");
+            MobileCenter.Configure("e53f9276-4c1b-43a5-9f1c-f2888602721d");
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
