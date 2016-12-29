@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 using Xamarin.Forms;
 
@@ -10,8 +13,9 @@ namespace BookClient
 	public class App : Application
 	{
 		public App()
-		{
-			// The root page of your application
+        {
+            MobileCenter.Start(typeof(Analytics), typeof(Crashes));
+            // The root page of your application
             MainPage = new NavigationPage(new MainPage());
 		}
 
